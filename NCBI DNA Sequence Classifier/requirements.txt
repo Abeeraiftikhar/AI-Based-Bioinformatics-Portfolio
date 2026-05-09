@@ -1,1 +1,4 @@
-
+biopython
+pandas
+scikit-learn
+matplotlib
