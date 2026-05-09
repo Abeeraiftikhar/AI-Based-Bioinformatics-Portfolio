@@ -19,7 +19,7 @@ The goal is to develop predictive and analytical models for solving real-world b
 ### 🔬 1. GC Content AI Analysis
 Uses statistical + ML-based clustering to analyze sequence composition patterns.
 
-### 🧬 2. DNA Sequence Classifier
+### 🧬 2. NCBI DNA Sequence Classifier
 Classifies sequences using machine learning models.
 
 ### 🧠 3. Protein Function Prediction
