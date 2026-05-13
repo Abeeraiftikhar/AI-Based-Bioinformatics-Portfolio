@@ -1,0 +1,6 @@
+# Ignore large Molecular Dynamics trajectory files
+*.dcd
+
+# Ignore temporary python caches
+__pycache__/
+*.pyc
