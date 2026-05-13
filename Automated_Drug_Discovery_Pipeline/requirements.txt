@@ -1,0 +1,7 @@
+requests
+rdkit
+pandas
+matplotlib
+py3Dmol
+openmm
+pdbfixer
