@@ -1,0 +1,6 @@
+Ligand_ID,Ligand_Name,Binding_Affinity_kcal/mol,Docked_File,Log_File
+5281034,ligand_5281034_3D,-9.865,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_5281034_3D_docked.pdbqt,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_5281034_3D_log.txt
+2244,ligand_2244_3D,-5.913,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_2244_3D_docked.pdbqt,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_2244_3D_log.txt
+3672,ligand_3672_3D,-6.765,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_3672_3D_docked.pdbqt,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_3672_3D_log.txt
+5291,ligand_5291_3D,-9.338,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_5291_3D_docked.pdbqt,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_5291_3D_log.txt
+123631,ligand_123631_3D,-9.207,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_123631_3D_docked.pdbqt,/content/drive/MyDrive/Docking_Pipeline/docking_results/ligand_123631_3D_log.txt
